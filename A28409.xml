@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bloody inkeeper, or Sad and barbarous news from Glocester-shire being a true relation how the bodies of seven men and women were found murthered in a garden belonging to a house in Putley near Glocester. With the strange and miraculous manner how the same was discovered by a smith that lately took the house, digging to set up his anvil, and finding a knife in one of the bodies.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28409</idno>
+            <idno type="STC">Wing B3256</idno>
+            <idno type="STC">ESTC R214930</idno>
+            <idno type="EEBO-CITATION">99826973</idno>
+            <idno type="PROQUEST">99826973</idno>
+            <idno type="VID">31385</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31385)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1862:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bloody inkeeper, or Sad and barbarous news from Glocester-shire being a true relation how the bodies of seven men and women were found murthered in a garden belonging to a house in Putley near Glocester. With the strange and miraculous manner how the same was discovered by a smith that lately took the house, digging to set up his anvil, and finding a knife in one of the bodies.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed with allowances,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Item is paginated, but wrongly imposed. Pagination is: 4 (on verso of t.p.), 5, 2, 3, [blank], 1, [blank].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31385:1" rendition="simple:additions"/>
+            <p>THE Bloody Innkeeper, OR Sad and Barbarous News from <hi>GLOCESTER-SHIRE:</hi> BEING A True Relation how the Bodies of ſeven Men and Women were found Murthered in a Garden belonging to a Houſe in <hi>Putley</hi> near <hi>Gloceſter.</hi>
+            </p>
+            <p>With the ſtrange and miraculous manner how the ſame was diſcovered by a Smith that lately took the Houſe, digging to ſet up his Anvil, and finding a Knife in one of the Bodies.</p>
+            <q xml:lang="lat">—Nec Hoſpes ab Hhſpite Tutus.</q>
+            <p>
+               <hi>London,</hi> Printed with Allowance, 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31385:4"/>
+            <pb n="1" facs="tcp:31385:4"/>
+            <head>The Bloody Inkeeper, OR Sad and Barbarous News from <hi>GLOCESTER-Shire.</hi>
+            </head>
+            <head type="sub">
+               <hi>BEING</hi> A true Relation how the Bodies of ſeven Men and Women, were found Murther<g ref="char:EOLhyphen"/>ed in a Garden belonging to a houſe in <hi>Putley</hi> near <hi>Gloceſter.</hi>
+            </head>
+            <p>I Shall not, like too many of our modern Pamphleteers, nauſeate the Reader with a tedious, or Impertinent Preamble, let it <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herefore (to awake his attention) ſuffice to ſay, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at the ſad and Tragical Relation, I am hear <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o give him, is no leſs remarkable for its cer<g ref="char:EOLhyphen"/>tainty, then its Bloody Cruelty, and equally
+<pb n="2" facs="tcp:31385:3" rendition="simple:additions"/>moſt true, and moſt Barbarous, the Circum<g ref="char:EOLhyphen"/>ſtances being thus.</p>
+            <p>Some years ago a perſon that had ſerved as a Soldier in <hi>Cromwels</hi> Troop, being after our pre<g ref="char:EOLhyphen"/>ſent Soveraignes moſt happy reſtoration, had put a Period to the neceſſity of thoſe chargable ſtanding forces disbanded, and having Married a Scotch woman, whilſt he reſided in that Na<g ref="char:EOLhyphen"/>tion, and brought her with him into <hi>England,</hi> they took a ſmall Houſe ſcituated in a Vilage called <hi>Putley</hi> on the Road between <hi>Gloceſtor</hi> and <hi>Briſtol,</hi> and therein ſold Drink, and Entertain<g ref="char:EOLhyphen"/>ed Paſſengers and Travellers, that had occaſion to lye there as a little Inn, and particularly his Wife being a Scot as aforeſaid, divers Perſons of that Nation who uſually Travel from thence into <hi>England</hi> with Scotch Cloath and other com<g ref="char:EOLhyphen"/>modities, reſorted thither, and choſe rather to Lodg there than elſewhere, for her ſake, as be<g ref="char:EOLhyphen"/>ing their Countrywoman;</p>
+            <p>But their Cuſtome being but now and then for a night or two, and their Trade otherwiſe very ſmall and inconſiderable, their Houſe ſtand<g ref="char:EOLhyphen"/>ing in a place out of the way, where no great Gheſts could be expected, all their Neighbours concluded that if they could but live, and keep even with the world, it was as much as they could hope for, but contrary to all expectati<g ref="char:EOLhyphen"/>ons, they began to thrive amain, furniſhing
+<pb n="3" facs="tcp:31385:3"/>their houſe rarely well with all ſorts of Houſ<g ref="char:EOLhyphen"/>hold goods, and convenient Utenſils, and having mony on all occaſions to lend his Neighbours at a pinch, which all that knew them much admir<g ref="char:EOLhyphen"/>ed at, as being ſenſible that very few years be<g ref="char:EOLhyphen"/>fore, when they firſt came thither, they were very poor and neceſſitous, and which way they ſhould increaſe their ſtock ſo well, they could not Imagin, for the Man being of a fair plau<g ref="char:EOLhyphen"/>ſible carriage, and making large pretences of honeſty and juſt dealing, they had not the leaſt ſuſpition or miſtruſt of the unhappy truth, that this ſpring tide of Fortune was ſwel'd with blood, and his Gaines taked together with the Barbarous hands of Robbery and Murther.</p>
+            <p>Indeed Fortune is only the Imaginary God<g ref="char:EOLhyphen"/>deſs of fools, there is nothing really happens without its means and propper cauſes, when we ſee the hand move on a Dyal, reaſon tells us there muſt be ſome wheels and ſprings within (though unſeen) which produce that motion: <hi>Solomon</hi> aſſures us that he that is haſtily rich, is really innocent, thoſe that from nothing on a ſudden heap up great eſtates, without any vi<g ref="char:EOLhyphen"/>ſible trade or way to obtain them, give us grounds to ſuſpect they take ſome indirect cour<g ref="char:EOLhyphen"/>ſes, and tread by-paths no way juſtifiable.</p>
+            <p>After this perſon whoſe name I forbare, meer<g ref="char:EOLhyphen"/>ly that I may not ſeem to prejudice him, be<g ref="char:EOLhyphen"/>fore
+<pb n="4" facs="tcp:31385:2"/>the Law paſſes on him, had remained ſome years in this little Houſe, hee ſound him<g ref="char:EOLhyphen"/>ſelf ſo well furniſht with money, that he reſolves to take a greater, and accordingly ſetled himſelf very Comodiouſly and compleatly in all re<g ref="char:EOLhyphen"/>ſpects in a large Inn near the Citty of <hi>Gloceſter,</hi> ſometime after which a Smith happening to hire the ſaid houſe he went out off for the con<g ref="char:EOLhyphen"/>veniency of his Trade, was forced to erect a ſmall ſhed, to ſerve as a ſhop on part of the Garden belonging thereunto, and digging pret<g ref="char:EOLhyphen"/>ty deep to ſeet up his Anvil, which requires a good foundation that it might ſtand fixt and ſteady, he found the bones and part of the fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh of a man buried there, the ſight whereof ſtrang<g ref="char:EOLhyphen"/>ly ſurprized and affrighted him, and cauſed him to acquaint his Neighbours therewith, who upon ſerious conſultation about it, adviz<g ref="char:EOLhyphen"/>ed him to dig further thereabouts, offering him their aſſiſtance therein, which being done, they in ſhort time found the Skeletons or Bones of ſeven ſeverall perſons, the bodies or fleſh of them were much conſumed, yet ſome of them had certain remnants of woollen and linen Gar<g ref="char:EOLhyphen"/>ments remaining, whereby it might be perceiv<g ref="char:EOLhyphen"/>ed that they were buried there in their Cloaths.</p>
+            <p>Strangly various were the Peoples Cenſures and apprehenſions of this ſad accident, as not knowing on whom to fix the guilt of ſo much
+<pb n="5" facs="tcp:31385:2"/>Inhumane Barbarouſneſs, for it plainly appear<g ref="char:EOLhyphen"/>ed that theſe perſons muſt be Murthered and Interred there for concealment, at laſt juſt Hea<g ref="char:EOLhyphen"/>ven, whoſe purer eyes could not ſuffer ſuch vil<g ref="char:EOLhyphen"/>lany to eſcape unpuniſht, wonderfully opened a way to the diſcovery, for as they were viewing more narrowly the bones and corps, and re<g ref="char:EOLhyphen"/>moving the earth and rubbiſh to behold them the plainer, they perceived a Knife Stuck in by the Blade bone of one of their breaſts, which being taken up and ſcoured from the ruſt, they found thereon engraven the name of a man who owned it, which together with divers other Circumſtances being conſidered, the Neigh<g ref="char:EOLhyphen"/>bourhood had violent ſuſpitions of him who had been the Author of all theſe horrid Mur<g ref="char:EOLhyphen"/>thers.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
